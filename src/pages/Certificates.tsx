@@ -37,45 +37,45 @@ const Certificates = () => {
   const certificates = [
     {
       icon: <CodeIcon sx={{ fontSize: 24 }} />,
-      title: 'Data Structure and Algorithm',
-      provider: 'Programming Pathshala',
+      title: 'CompTIA Security+',
+      provider: 'CompTIA',
       color: '#2196f3',
-      link: 'https://drive.google.com/file/d/your-dsa-certificate-link/view'
+      link: 'https://drive.google.com/file/d/1uNo_usIYlrvpMKa2gnz12yXL6pcViNpv/view'
     },
     {
       icon: <CloudQueueIcon sx={{ fontSize: 24 }} />,
-      title: 'The Bits and Bytes of Computer Networking',
-      provider: 'Google Cloud',
+      title: 'CompTIA Network+',
+      provider: 'CompTIA',
       color: '#4285f4',
-      link: 'https://ibb.co/1GrrxLKB'
+      link: 'https://drive.google.com/file/d/1aRCYNChlyBiJBED5DuRydxWYEoBAuehT/view?usp=drive_open'
     },
     {
       icon: <CloudIcon sx={{ fontSize: 24 }} />,
-      title: 'Introduction to Generative AI',
-      provider: 'Google Cloud',
+      title: 'Digital Forensics',
+      provider: 'QuickHeal',
       color: '#34a853',
-      link: 'https://ibb.co/qYDYV0QQ'
+      link: 'https://drive.google.com/file/d/1FBOBUc-CiCpHEgaDbyyAGEulQal7NWmJ/view'
     },
     {
       icon: <WebIcon sx={{ fontSize: 24 }} />,
-      title: 'Become a Full Stack Web Developer',
-      provider: 'LinkedIn Learning',
+      title: 'Data Structure & Algorithms.',
+      provider: 'GeeksforGeeks',
       color: '#0077b5',
-      link: 'https://drive.google.com/file/d/your-web-dev-certificate-link/view'
+      link: 'https://drive.google.com/file/d/1Tlbf72EYUT3WXHFLmWQEYYxOJUCmiCG7/view'
     },
     {
       icon: <SecurityIcon sx={{ fontSize: 24 }} />,
       title: 'CyberShikshaa for Fundamentals',
       provider: 'Microsoft',
       color: '#00a4ef',
-      link: 'https://ibb.co/TqtSs9TJ'
+      link: ''
     },
     {
       icon: <CodeIcon sx={{ fontSize: 24 }} />,
-      title: 'Python (Basic)',
-      provider: 'HackerRank',
+      title: 'Python Programming',
+      provider: 'Skilcamp (E-learning platform)',
       color: '#ff6d00',
-      link: 'https://drive.google.com/file/d/your-python-certificate-link/view'
+      link: 'https://drive.google.com/file/d/1agWTQ4ehCGQFGpKyyUtf3QdgqRsi6adZ/view?usp=drive_open'
     }
   ];
 

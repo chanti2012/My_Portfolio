@@ -21,23 +21,23 @@ const Education = () => {
       school: 'Lovely Professional University',
       location: 'Jalandhar, Punjab, India',
       period: 'August 2022 - May 2026',
-      score: 'CGPA: 8.23',
+      score: 'CGPA: 7.14',
       courses: ['Object Oriented Programming', 'DSA', 'Computer Networks', 'Operating Systems']
     },
     {
-      degree: 'Senior Secondary',
-      school: 'R.P.M Academy',
-      location: 'Gorakhpur, UP, India',
+      degree: '12th ',
+      school: ' Kendriya Vidyalaya Bolarum',
+      location: 'Secunderabad, Telangana, India',
       period: 'April 2021 - May 2022',
-      score: 'Score: 87%',
+      score: 'Score: 77%',
       courses: ['Mathematics', 'Chemistry', 'Physics']
     },
     {
-      degree: 'Matriculation',
-      school: 'R.P.M Academy',
-      location: 'Gorakhpur, UP, India',
+      degree: '10th ',
+      school: ' Kendriya Vidyalaya Bolarum',
+      location: 'Secunderabad, Telangana, India',
       period: 'April 2019 - May 2020',
-      score: 'Score: 89.6%',
+      score: 'Score: 86%',
       courses: ['Mathematics', 'Chemistry', 'Physics', 'Biology']
     }
   ];

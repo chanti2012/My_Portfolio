@@ -68,7 +68,7 @@ const About = () => {
     { icon: <BrushIcon sx={{ fontSize: 40 }} />, name: 'CSS', color: '#f50057' },
     { icon: <CodeIcon sx={{ fontSize: 40 }} />, name: 'JavaScript', color: '#ff9800' },
     { icon: <StorageIcon sx={{ fontSize: 40 }} />, name: 'SQL', color: '#9c27b0' },
-    { icon: <CloudIcon sx={{ fontSize: 40 }} />, name: 'React.js', color: '#00bcd4' },
+    { icon: <CloudIcon sx={{ fontSize: 40 }} />, name: 'Express.js', color: '#00bcd4' },
     { icon: <SecurityIcon sx={{ fontSize: 40 }} />, name: 'Node.js', color: '#f44336' },
     { icon: <DataObjectIcon sx={{ fontSize: 40 }} />, name: 'MongoDB', color: '#795548' },
   ];
@@ -88,7 +88,7 @@ const About = () => {
               mb: 4,
             }}
           >
-            Karishma Yadav
+            K.Chandra Shekhar
           </Typography>
           <Typography
             variant="h6"
@@ -109,16 +109,16 @@ const About = () => {
               animation: `${fadeIn} 1s ease-out 0.6s both`,
             }}
           >
-            <Link href="https://github.com/yadav-karishma" target="_blank" color="inherit" sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+            <Link href="https://github.com/chanti2012/" target="_blank" color="inherit" sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
               <GitHubIcon /> GitHub
             </Link>
-            <Link href="https://linkedin.com/in/karishma-yadav2004" target="_blank" color="inherit" sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+            <Link href="https://www.linkedin.com/in/shekhar20/" target="_blank" color="inherit" sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
               <LinkedInIcon /> LinkedIn
             </Link>
-            <Link href="mailto:karishmayadav1517@gmail.com" color="inherit" sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+            <Link href="mailto:ck3911283@gmail.com" color="inherit" sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
               <EmailIcon /> Email
             </Link>
-            <Link href="tel:+918174888945" color="inherit" sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+            <Link href="tel:+91 8688647504" color="inherit" sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
               <PhoneIcon /> Phone
             </Link>
           </Box>
@@ -311,26 +311,26 @@ const About = () => {
             {[
               {
                 icon: <CodeOffIcon sx={{ fontSize: 24 }} />,
-                title: 'Coding Problems Solved',
-                description: 'Solved over 350+ coding problems on CodeChef, Leetcode and GeeksForSolved 350+ coding problems across platforms like CodeChef, LeetCode, and GeeksforGeeks, demonstrating strong problem-solving skills.Geeks',
+                title: 'NCC (National Cadet Corps)',
+                description: 'NCC- C Certificate Holder',
                 color: '#2196f3'
               },
               {
                 icon: <EmojiEventsIcon sx={{ fontSize: 24 }} />,
-                title: 'CodeKaze Competition',
-                description: 'Secured an All India Rank of 9,138 in Coding Ninjas CodeKaze competition, showcasing competitive programming proficiency',
+                title: 'State Level Camp.',
+                description: 'Participated in State Level Camp (Thal Sainik Camp), NCC– developed leadership and discipline.',
                 color: '#ffd700'
               },
               {
                 icon: <StarIcon sx={{ fontSize: 24 }} />,
-                title: 'HackerRank Achievements',
-                description: 'Earned Silver badges in Python and Java on HackerRank, reflecting versatility in programming languages.',
+                title: 'Sports',
+                description: 'Participated in Inter-Platoon Competition (NCC) and won Gold Medals in: Football, Basketball, and Badminton.',
                 color: '#c0c0c0'
               },
               {
                 icon: <MilitaryTechIcon sx={{ fontSize: 24 }} />,
-                title: '30 Days of Code',
-                description: 'Completed the 30 Days of Code challenge on HackerRank with a Bronze badge, highlighting consistency in coding practice.',
+                title: 'GeeksforGeeks',
+                description: 'Successfully completed a 230- hour course on Data Structures and Algorithms- Self Paced.',
                 color: '#cd7f32'
               }
             ].map((achievement, index) => (
